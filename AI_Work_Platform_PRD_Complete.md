@@ -958,7 +958,7 @@ summary = generate_summary(results)
 ### 5.1 技术栈
 
 **前端**：
-- 框架：Tauri + Vue 3
+- 框架：Tauri + Vue 3 ✅
 - 语言：TypeScript
 - UI 组件库：Element Plus
 
@@ -1114,7 +1114,7 @@ summary = generate_summary(results)
 ## 9. 待确认事项
 
 1. **产品名称**：需要确认正式的产品名称
-2. **技术栈**：Tauri + Vue 3 + Python 是否确认？
+2. ~~技术栈：Tauri + Vue 3 + Python 是否确认？~~ ✅ 已确认（2026-02-20）
 3. **开发资源**：是否有开发团队协助？
 4. **时间线**：3 个月 MVP 是否合理？
 5. **官方技能扩展**：除了漫剧制作，是否需要优先支持其他场景？
